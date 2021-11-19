@@ -1,0 +1,103 @@
+﻿
+Between 20 and 30, what is the cube number? 
+27
+Between 20 and 30, what is the only square number?
+25
+What is the degree of the the following polynomial: (4x^2)+3x+8+(2x^3)
+3
+Simplify expression: (-3)^5
+-243
+Simplify expression: 7^8 / 7^4
+2401
+Simplify expression: c^(7/2) + c^(2/5)
+c^39/10
+Simplify expression: 2a^3 x 5a^4 x 7a^2
+70a^9
+Work out the side length of square with area: 25p^6
+5p^3
+Is the following number rational or irrational?: 1 + root25, (write your answer in lower case)
+rational
+Is the following number rational or irrational?: pi^2 (write your answer in lower case)
+irrational
+Simplify the expression: root(8) x root(7), into the form axroot(b) and find the value of b.
+14
+Simplify the expression: 4root(24) x 6root(30), into the form a√b and find the value of a.
+288
+Find the negative root of the quadratic: (2x^2)+5x-3=0
+-3
+Find the root in the quadratic: (3x^2)-23x+14=0, where x<3
+2/3
+Factorise: f(x)=(x^2)+3x+2
+(x+1)(x+2)
+Use the quadratic formula to solve: (3x^2)+9x+5=0, only giving the answer gotten when using the + sign, and to 2 dp.
+-0.74
+A designer is lining the base and sides of a rectangular drawer, dimensions 2xcm by 3xcm by 5cm with paper, the papers total area is 4070cm^2. Write and solve an equation and find the value of x to 1dp. 
+22.2
+Find the value of b in the simultaneous equation: a+b=7, 2a-b=11
+1
+Find the value of b in the simultaneous equation: 4a-21=b, 2b=13-3a
+-1
+In a recent local election, the winning candidate had an overall majority of 257 votes over her only opponent. There were 1619 votes cast altogether. Form a pair of simultaneous equations and find how many votes the lowest scoring candidate polled.
+681
+Find the value of y in the simultaneous equation: 4x+2y=2, 5x-27=7
+-1
+Find the value of c in the simultaneous equation: 3c-4d=29, 4c=13+3d
+-5
+Find the value of e in the simultaneous equation: 2e=13-3f, 6f=e-4
+6
+Divide (x^2)-x-90 by (x+9), give your answer in form: (ax+b)
+(x-10)
+Divide (3x^2)-19x-14 by (x-7), give your answer in form: (ax+b)
+(3x+2)
+Give the remainder when dividing: (4x^3)+(4x^2)-8x+5 by (x-4)
+293
+Give the remainder when dividing: (x^3)-(10x^2)-10x-11 by (x-11)
+0
+(x^2)+3x+9 is a factor of (x^3)+(2x^2)+6x-9, find the other factor by comparing coefficients, give in form: (ax+b)
+(x-1)
+In the expansion of: (p+5)^5, find the coefficient of p^2
+1250
+In the expansion of: (4p+1/4)^3, find the coefficient of p^2
+12
+In the expansion of: (4+Y)^9, find the coefficient of y^5
+32256
+In the expansion of: (3+q)^12, find the coefficient of q^7
+192456
+Calculate 5!
+120
+Calculate 7!
+5040
+Calculate the value of sin(x) as a fraction, given than x is an acute angle and cos(x)=3/5.
+4/5
+Calculate the value of tan(x) as a decimal, given than x is an acute angle and cos(x)=0.8
+0.75
+Using the quadrant or graphical method to find cos(190) in terms of acute angles, in form: sin/cos/tan(angle)
+-cos(10)
+Using the quadrant or graphical method to find tan(160) in terms of acute angles, in form: sin/cos/tan(angle)
+-tan(20)
+Using the quadrant or graphical method to find sin(340) in terms of acute angles, in form: sin/cos/tan(angle)
+-sin(20)
+Find the gradient of y=x^2 at x=3
+6
+Find the gradient of y=x^2 at x=4
+8
+Find the gradient of y=5x^2 at x=1
+10
+Find the derivative of y=2x^2
+4x
+Intergrate 10
+10x+c
+Intergrate 5
+5x+c
+Find the value of log3(9)
+2
+Find the value of log16(16)
+1
+Find the value of log3(81)-log3(27)
+1
+Find the value of log2(8)+log2(2)
+4
+Find the value of log3(9)-log3(27)
+-1
+Q51
+A51

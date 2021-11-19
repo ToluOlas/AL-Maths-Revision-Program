@@ -1,0 +1,32 @@
+﻿Test History:
+------------------
+2019-01-21 20:13:00.531150
+Test on topic: Pure.
+Score: 5/10
+Time to complete: 280.0 seconds.
+------------------
+2019-01-23 00:27:44.194155
+Test on topic: Pure.
+Score: 0/10
+Time to complete: 132.0 seconds.
+------------------
+2019-02-16 15:06:28.591132
+Test on topic: Mechanics.
+Score: 3/10
+Time to complete: 94.0 seconds.
+------------------
+2019-03-15 13:12:25.124448
+Test on topic: Pure.
+Score: 1/10
+Time to complete: 1692.0 seconds.
+------------------
+2019-03-15 14:05:52.225992
+Test on topic: Pure.
+Score: 1/10
+Time to complete: 639.0 seconds.
+------------------
+2021-11-19 15:41:05.483621
+Test on topic: Pure.
+Score: 4/10
+Time to complete: 164.0 seconds.
+------------------

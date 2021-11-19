@@ -1,0 +1,99 @@
+﻿
+What type of sampling is this: Every member of the population is equally likely to be chosen. (type your answer in lower case, and in form: "x sampling").
+simple random sampling
+What type of sampling is this: Find sample sise of n from a population of size N, taking one member from the first k memebers of the population at random (type your answer in lower case, and in form: "x sampling").
+systematic sampling
+What type of sampling is this: Splitting a population into distinct groups then sampling within each group. (type your answer in lower case, and in form: "x sampling").
+stratified sampling
+What type of sampling is this: Take samples from members of the population you have access to until you have a sample of the desired size. (type your answer in lower case, and in form: "x sampling").
+opportunity sampling
+What type of sampling is this: You know you want distinct groups to be represented in the sample, decide how many of each group you wish to sample in advance and use oppurtunity sampling til the sample is large enough for each group. (type your answer in lower case, and in form: "x sampling").
+quote sampling
+What type of sampling is this: Split the population into clusters that you expect to be similar to each other, then take a sample from each of these clusters. (type your answer in lower case, and in form: "x sampling").
+cluster sampling
+From data set: 6, 8, 9, 2, 5, 6, 10, 8, 5, 7, 4, 8, 11 , give the mean.
+6.85
+From data set: 6, 8, 9, 2, 5, 6, 10, 8, 5, 7, 4, 8, 11 , give the standard deviation.
+2.41
+From data set: 6, 8, 9, 2, 5, 6, 10, 8, 5, 7, 4, 8, 11 , give the range.
+9
+From data set: 12, 14, 15, 19, 21, 25, 26, 29, 32, 36 , give the 1st quartile's value.
+14.5
+From data set: 12, 14, 15, 19, 21, 25, 26, 29, 32, 36 , give the 3rd quartile's position.
+8.25
+From data set: 12, 14, 15, 19, 21, 25, 26, 29, 32, 36 , give the interquartile range.
+16
+From data set: 1.2, 1.7, 1.9, 2.3, 2.5, 2.9, 3.1, 3.6, 3.7, 3.9, 4.0, 4.1 , give the 1st quartile's position.
+3.25
+From data set: 1.2, 1.7, 1.9, 2.3, 2.5, 2.9, 3.1, 3.6, 3.7, 3.9, 4.0, 4.1 , give the interquartile range.
+1.7
+From data set: 13, 15, 19, 17, 14, 27, 19, 9, 10, 17, 18, 14, 20, 18, 15, 10 , find the standard deviation.
+4.37
+From data set: 13, 15, 19, 17, 14, 27, 19, 9, 10, 17, 18, 14, 20, 18, 15, 10 , find the mean.
+15.9
+In: 13, 15, 19, 17, 14, 27, 19, 9, 10, 17, 18, 14, 20, 18, 15, 10 , outliers are defined by being outside of range: mean-2(standard deviation) and mean+2(standard deviation). Find the outlier.
+27
+9 students were asked how much they spent in £ on travel a week. They gave results: 21, 31, 19.84, 19.32, 22.54, 21.48, 20.73, 16.10, 21.40. Find the interquartile range.
+2.43
+9 students were asked how much they spent in £ on travel a week. They gave results: 21, 31, 19.84, 19.32, 22.54, 21.48, 20.73, 16.10, 21.40. with Q1-1.5xIQR and Q3+1.5xIQR being the range, find the outlier.
+31
+State wether the correlation is likely to be positive, negative or zero: Daytime temprature and the number of people without coats.
+positive
+State wether the correlation is likely to be positive, negative or zero: Number of plants grown and the amount of fertilizer used.
+positive
+State wether the correlation is likely to be positive, negative or zero: A persons weight and annual income.
+zero
+State wether the correlation is likely to be positive, negative or zero: The number of students passing exams and the number of students studying physics.
+zero
+State wether the correlation is likely to be positive, negative or zero: Unemployment rates and measures of the standard of living.
+negative
+A bag contains 4 counters numbered 1 to 4. A counter is chosen at random and isn't replaced, then a second counter. How many pairs of numbers would be used as the sample space?
+12
+There are three mutually exclusive and exhaustive events, P, Q and R. P(Q)=0.2, P(R)=0.3. Find P(P or Q)
+0.7
+There are three mutually exclusive and exhaustive events, P, Q and R. P(Q)=0.2, P(R)=0.3. Find P(P and R)
+0
+There are three mutually exclusive and exhaustive events, P, Q and R. P(Q)=0.2, P(R)=0.3. Find P(P)
+0.5
+There are three mutually exclusive and exhaustive events, P, Q and R. P(Q)=0.2, P(R)=0.3. Find P(P')
+0.5
+You throw a fair six sided dice. What is the probability that one score is less than 4 and the other score is grreater than 4?
+1/3
+P(X=x)={0.1(x+1) for x=1,2,3, and b for x=4}. Find the value of b
+0.1
+P(X=x)={0.1(x+1) for x=1,2,3, and b for x=4}. Find P(X>1)
+0.8
+A pair of fair six-sided dice is thrown five times. Find the probability that a double six is scored no more than once to 3 sf.
+0.993
+A box contains 15 coloured beads. 3 are red, 2 are black and the rest are white. A sample of 6 beads is taken, with each being returned before the next is chosen. Find the p that the sample contains more than 3 beads that aren't white to 3sf.
+0.100
+In a game of dice, you commit to getting at least one double six in 24 throws on two fair 6 sided dice. Your friend says you won't succed, who is more likely right? Type "me" or "friend".
+friend
+A pack of flower seeds produce flowers that are either red, blue or white. These colours occur in ratio 2:3:5. Find the p that, when 12 plants are grown, at least 6 are white, to 3 sf.
+0.613
+At a postal sorting office, 32% of letter are classified as large, the rest are standard. Asample of 12 is taken. The random variable X is the no of standard letters. Write the distribution in form X~B(n,p)
+X~B(12,0.68)
+At a postal sorting office, 32% of letter are classified as large, the rest are standard. Asample of 12 is taken. The random variable X is the no of standard letters. Find the probability that more than two-thirds of the letters are standard to 3sf.
+0.432
+Given X~B(5,0.3), find P(X=3)
+0.132
+Given X~B(5,0.3), find P(X=<2)
+0.837
+Given X~B(5,0.3), find P(X=/=0)
+0.832
+Given X~B(8,0.6), find P(x=<0) to 2 sf
+0.00066
+Given X~B(8,0.6), find P(x=<3) to 2 sf
+0.17
+Given X~B(8,0.6), find P(x<5) to 2 sf
+0.41
+Given X~B(8,0.6), find P(x>2) to 2 sf
+0.95
+Lydia flips a coin to predict if her school meal will include at least two vegetables. Olivia says that her analysis is better, so the records the number of veggies in the next 18 meals. State the alternate hypothesis.
+p>0.5
+State whether to "accept" of "reject" the null hypothesis from this test: H0: p=0.4, H1: p<0.4, critical value=3, X takes value 4.
+accept
+State whether to "accept" of "reject" the null hypothesis from this test: H0: p=0.3, H1: p>0.3, critical value=17, X takes value 18.
+reject
+State whether to "accept" of "reject" the null hypothesis from this test: H0: p=0.7, H1: p=/=0.7, critical value=2 and 11, X takes value 10.
+accept

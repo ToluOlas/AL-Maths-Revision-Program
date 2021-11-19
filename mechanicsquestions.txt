@@ -1,0 +1,101 @@
+﻿
+A parallelogram, ABCD exists, where AB=p and AD=q. Express vector DB in terms of p and q, with p terms first.
+p-q
+p:(16, east), q:(20, north). Work out the magnitude of their resultant to 1 dp.
+25.6
+A parallelogram, ABCD exists, where AB=p and AD=q. Express vector BA in terms of p and q, with p terms first.
+-p
+Evaluate the magnitude of vectors: 5i + 2j to 3 sf
+5.39
+Evaluate the direction of vectors: 7i + 9j to 3 sf
+52.1
+Given the vectors: p=2i-j, q=-2i+3j and r=4i+j, calculate |q+r| to 3 sf
+4.47
+Given the vectors: p=2i-j, q=-2i+3j and r=4i+j, calculate 2p+3r to 3 sf
+16i+j
+Give vectors: p=3i+uj, q=vi-4j and r=4i-6j, work out the value of u if p and r are parallel.
+-4.5
+Point A has position vector (8i-15j). Work out the distance of point A from the origin.
+17
+Particles A and B have position vectors a=(2i+5j) and b=(6i+3j). A undergoes a displacement of (2i-3j) and B moves in the opposite direction three times as far. Calculate the distance between the particles after these displacements, to 1 dp.
+10.8
+Particle A is stationary at (2i+3j), particle B is stationary at (3i-j) and particle C is stationary at (4i+13j). B undergoes a displacement of k(i+2j) and C a displacement of k(4i-j) so all three are alligned in a straight line. Determine the value of k where k<0.
+-2/3
+What quantity is described by: Newtons, N? (Answer in all lower case)
+force
+What quantity is described by: Kilograms, kg? (Answer in all lower case)
+mass
+What quantity is described by: metres per second squared, ms^-2? (Answer in all lower case)
+acceleration
+What is the value of 72kmh when converted to ms^-1?
+20
+What is the value of 14ms^-1 when converted to kmh? (1 dp)
+50.4
+A car travels 70 km in 35 mins. What is the value of its speed in kmh?
+120
+Work out the value of the distance, in km, travelled in a quarter of an hour by a car that has a constant speed of 20ms^-1.
+18
+Evaluate v if u=4ms, a=2, t=7s
+18
+Evaluate t if u=8ms, v=35ms, a=3
+9
+Evaluate a if s=30m, u=-4ms, t=6s
+3
+Evaluate the magnitude of vectors: -5j to 3 sf
+5
+Evaluate the magnitude of vectors: 3j-2i to 3 sf
+3.61
+Evaluate the magnitude of vectors: -5i-6j to 3 sf
+7.81
+Evaluate the magnitude of vectors: -2i to 3 sf
+2
+Given the vectors: p=2i-j, q=-2i+3j and r=4i+j, find p+q
+2j
+Given the vectors: p=2i-j, q=-2i+3j and r=4i+j, find p-r
+-2i-2j
+A runner travels 39000m in 8kmh, find in minutes, the time she takes.
+29
+Find s, if u=4kmh, a=0.01ms and t=40 mins, give your answer in km to 3 sf
+31.5
+A station platform is 180m long, A train of length 120m passes it as 30kmh. How long will it take for the train to fully pass in seconds?
+36
+Convert 8.5km to m, giving the unit
+8500m
+Convert 2.3m to mm, giving the unit
+2300mm
+Convert 482cm to m, giving the unit
+4.82m
+Convert 72kmh to ms, giving the unit
+20ms
+Convert 1650m to km, giving the unit
+1.65km
+Convert 25cms to kmh, giving the unit
+0.9kmh
+Convert 6700cm to m, giving the unit
+67m
+Work out the distance, in km, travelled in the 1/4th of an hour by a car that has a constant v of 20ms, giving the unit.
+18km
+A particle has an acceleration of 200kmh, express this in ms, giving the unit.
+0.0154ms
+Find the vertical resultant force of a particle stationary on a surface.
+0
+A girl holds a string, which is attached to a box of weight 40N. She pulls the box up with constant v, find the magnitude of tension in the string. Give in term of N.
+40N
+A car travels with constant velocity of 8ms in a straight line along a horizontal road. The restance ot motion is 900N. What is the engines driving force? Give in term of N.
+900N
+A car travel with a constant driving force, the resistance to motion increases. Does the cars speed "increase", "decrease" or is it "constant"?
+decrease
+A box of mass 5kg lies on a horizontal table. A horizontal force of magnitude 20N is applied ot it. Find the magnitude of the resistive force of the acceleration is 1ms.Give in term of N.
+15N
+A crate of mass 60kg lies on a horizontal floor. A horizontal for of 300N is applied to it. Find the acceleration of the crate if the resistive force has magnitude 210N. Give in ms.
+1.5ms
+A car of mass 1000kg is travelling along a horizontal road. The total resistance to motion is 400N and the driving force is 1600N. Calculate the cars acceleration. Give in ms.
+1.2ms
+Calculate the acceleration acting on an object if the resultant force is (9i+18j)N and the mass is 5kg. Give in form (ai+bj)ms
+(1.8i+3.6j)ms
+A car of mass 1200kg is at rest on a horizontal road. Work out the force needed to give the car an acceleration of 3ms if the total resistance to motion is 300N. Give in terms of N.
+3900N
+A truck of mass 2000kg is travelling on a road. The total resistance to motion is 500N. A breaking force of magnitude 900N is applied ot the truck. Work out the acceleration of the truck in ms. 
+-0.7ms
+A box of mass mkg rests on a horizontal floor. A horizontal force 40N is applied to the box which gives it an acceleration of 2ms. Calculate m, in kg,if the total resistance to motion is 12N.
+14kg
